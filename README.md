@@ -1,7 +1,7 @@
 
 <div align="center">
 
-# 👋 Hello, I'm **Giri M**
+# Giri M
 
 ### AI Developer • Full Stack Developer • Computer Science Engineer
 
