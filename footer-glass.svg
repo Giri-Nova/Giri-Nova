@@ -1,0 +1,38 @@
+<svg width="1000" height="150" viewBox="0 0 1000 150" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bgGradF" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#24243e"/>
+      <stop offset="50%" stop-color="#302b63"/>
+      <stop offset="100%" stop-color="#0f0c29"/>
+    </linearGradient>
+    <radialGradient id="fblob1" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#f472b6" stop-opacity="0.7"/>
+      <stop offset="100%" stop-color="#f472b6" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="fblob2" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#38bdf8" stop-opacity="0.7"/>
+      <stop offset="100%" stop-color="#38bdf8" stop-opacity="0"/>
+    </radialGradient>
+    <filter id="fblur" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="35"/>
+    </filter>
+    <linearGradient id="fGlassFill" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#ffffff" stop-opacity="0.12"/>
+      <stop offset="100%" stop-color="#ffffff" stop-opacity="0.03"/>
+    </linearGradient>
+    <linearGradient id="fGlassStroke" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#ffffff" stop-opacity="0.5"/>
+      <stop offset="100%" stop-color="#ffffff" stop-opacity="0.05"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1000" height="150" fill="url(#bgGradF)"/>
+  <g filter="url(#fblur)">
+    <circle cx="120" cy="30" r="100" fill="url(#fblob1)"/>
+    <circle cx="880" cy="120" r="120" fill="url(#fblob2)"/>
+  </g>
+
+  <rect x="220" y="35" width="560" height="80" rx="24" fill="url(#fGlassFill)" stroke="url(#fGlassStroke)" stroke-width="1.2"/>
+  <text x="500" y="72" text-anchor="middle" font-family="Segoe UI, Verdana, sans-serif" font-size="17" font-weight="600" fill="#f3f2ff">Code &#183; Learn &#183; Build &#183; Repeat</text>
+  <text x="500" y="98" text-anchor="middle" font-family="Segoe UI, Verdana, sans-serif" font-size="12.5" fill="#c9c9ff">Crafted with curiosity by Giri M</text>
+</svg>
