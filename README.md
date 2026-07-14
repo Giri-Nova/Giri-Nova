@@ -1,3 +1,4 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:9D4EDD&height=250&section=header&text=Giri%20M&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Developer%20|%20Full-Stack%20Engineer&descAlignY=58"/>
 <div align="center">
 
 <img src="./assets/hero-glass.svg" width="100%"/>
