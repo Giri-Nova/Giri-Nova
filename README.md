@@ -1,185 +1,91 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:9D4EDD&height=250&section=header&text=Giri%20M&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Developer%20|%20Full-Stack%20Engineer&descAlignY=58"/>
+# <div align="center">👋 Hi, I'm Giri M</div>
+
 <div align="center">
 
-<img src="./assets/hero-glass.svg" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:A855F7&height=240&section=header&text=Giri%20M&fontSize=50&fontColor=ffffff&animation=fadeIn&desc=AI%20Developer%20%7C%20Full-Stack%20Engineer&descAlignY=60"/>
 
-<br>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Building+AI+that+solves+real-world+problems;Full-Stack+Developer;Computer+Vision+%7C+Machine+Learning;Always+learning.+Always+building."/>
 
-[![Instagram](https://img.shields.io/badge/Instagram-ffffff1a?style=for-the-badge&logo=Instagram&logoColor=E4405F&labelColor=1b1440)](https://www.instagram.com/fr.giri)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-ffffff1a?style=for-the-badge&logo=linkedin&logoColor=38bdf8&labelColor=1b1440)](https://www.linkedin.com/in/girimanigandan03)
-[![X](https://img.shields.io/badge/X-ffffff1a?style=for-the-badge&logo=X&logoColor=ffffff&labelColor=1b1440)](https://x.com/Fr_giri)
-[![Email](https://img.shields.io/badge/Email-ffffff1a?style=for-the-badge&logo=gmail&logoColor=f472b6&labelColor=1b1440)](mailto:girimanigandanofficial@gmail.com)
-
-<br>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=1200&color=A78BFA&center=true&vCenter=true&width=560&background=00000000&lines=const+developer+%3D+%22Giri+M%22%3B;while(alive)+%7B+learn()%3B+build()%3B+repeat()%3B+%7D;print(%22Turning+ideas+into+impact%22)%3B" alt="Typing SVG" />
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/girimanigandan03)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/fr.giri)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Fr_giri)
+[![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:girimanigandanofficial@gmail.com)
 
 </div>
 
-<br>
+---
 
-<img src="./assets/header-about.svg" width="100%"/>
-
-<br>
-
-<table align="center" width="100%">
-<tr>
-<td width="62%" valign="top">
-
-<div align="left">
-
-```bash
-giri@dev:~$ whoami
-```
+# 💫 About Me
 
 ```yaml
-name: "Giri M"
-role: "AI Developer / Full-Stack Engineer"
-status: "Building technology that makes a difference"
-mindset:
-  - "Curious by default"
-  - "Learns fast, ships faster"
-  - "Believes in code that solves real problems"
-currently:
-  learning: ["Deep Learning", "Cloud & DevOps", "System Design"]
-  building: "intelligent, real-world software"
+Name: Giri M
+Role: AI Developer / Full-Stack Engineer
+
+Learning:
+  - Deep Learning
+  - Cloud & DevOps
+  - System Design
+
+Building:
+  - Multi-Agent AI Systems
+  - Smart City Digital Twin
+  - AI Web Applications
+
+Mission:
+  Build AI products that solve real-world problems.
 ```
 
-</div>
+## 🚀 Featured Projects
 
-<br>
+- 🤖 Multi-Agent AI Platform
+- 🌍 Digital Twin of a Smart City
+- 🌱 Plant Disease Detection
+- 🌐 AI Portfolio & Full-Stack Applications
 
-<div align="left">
+## 🛠 Tech Stack
 
-![Focus](https://img.shields.io/badge/Focus-AI%20%26%20Full--Stack-ffffff1a?style=flat-square&labelColor=1b1440&color=1b1440&logoColor=A78BFA)
-![Learning](https://img.shields.io/badge/Learning-Deep%20Learning%20%7C%20DevOps%20%7C%20System%20Design-ffffff1a?style=flat-square&labelColor=1b1440&color=1b1440)
-![Building](https://img.shields.io/badge/Building-Real--World%20Software-ffffff1a?style=flat-square&labelColor=1b1440&color=1b1440)
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,java,cpp,c,javascript,django,fastapi,nodejs,express,mongodb,mysql,sqlite,aws,git,github,linux,vscode,tensorflow,pytorch,html,css,bootstrap,figma" />
+</p>
 
-</div>
+---
 
-</td>
-<td width="38%" valign="top" align="center">
+## 📊 GitHub Analytics
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="240" style="border-radius:20px"/>
+<p align="center">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Giri-Nova&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Giri-Nova&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
 
-</td>
-</tr>
-</table>
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=Giri-Nova&theme=tokyonight&hide_border=true"/>
+</p>
 
-<br>
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Giri-Nova&theme=tokyo-night&hide_border=true"/>
+</p>
 
-<img src="./assets/header-stack.svg" width="100%"/>
+## 🏆 Achievements
 
-<br>
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=Giri-Nova&theme=tokyonight&no-frame=true&column=4"/>
+</p>
 
-<table align="center" width="100%">
-<tr>
-<td width="50%" valign="top" align="center">
+## 🎯 Goals
 
-**Languages**
+- Build production-ready AI products
+- Contribute to Open Source
+- Master Deep Learning
+- Participate in Hackathons
 
-![C](https://img.shields.io/badge/C-1b1440?style=for-the-badge&logo=c&logoColor=A78BFA)
-![C++](https://img.shields.io/badge/C++-1b1440?style=for-the-badge&logo=c%2B%2B&logoColor=A78BFA)
-![Java](https://img.shields.io/badge/Java-1b1440?style=for-the-badge&logo=openjdk&logoColor=A78BFA)
-![Python](https://img.shields.io/badge/Python-1b1440?style=for-the-badge&logo=python&logoColor=38bdf8)
-![JavaScript](https://img.shields.io/badge/JavaScript-1b1440?style=for-the-badge&logo=javascript&logoColor=facc15)
-![Dart](https://img.shields.io/badge/Dart-1b1440?style=for-the-badge&logo=dart&logoColor=38bdf8)
-![PHP](https://img.shields.io/badge/PHP-1b1440?style=for-the-badge&logo=php&logoColor=A78BFA)
+> **"Technology becomes meaningful when it solves real problems."**
 
-</td>
-<td width="50%" valign="top" align="center">
+## 🤝 Connect
 
-**Web & Frameworks**
+If you enjoy AI, ML or Full-Stack development, let's connect!
 
-![HTML5](https://img.shields.io/badge/HTML5-1b1440?style=for-the-badge&logo=html5&logoColor=f472b6)
-![CSS3](https://img.shields.io/badge/CSS3-1b1440?style=for-the-badge&logo=css3&logoColor=38bdf8)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-1b1440?style=for-the-badge&logo=bootstrap&logoColor=A78BFA)
-![Django](https://img.shields.io/badge/Django-1b1440?style=for-the-badge&logo=django&logoColor=34d399)
-![FastAPI](https://img.shields.io/badge/FastAPI-1b1440?style=for-the-badge&logo=fastapi&logoColor=34d399)
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=Giri-Nova&style=for-the-badge&color=blueviolet"/>
+</p>
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top" align="center">
-
-**Data, ML & AI**
-
-![NumPy](https://img.shields.io/badge/NumPy-1b1440?style=for-the-badge&logo=numpy&logoColor=38bdf8)
-![Pandas](https://img.shields.io/badge/Pandas-1b1440?style=for-the-badge&logo=pandas&logoColor=A78BFA)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-1b1440?style=for-the-badge&logo=Matplotlib&logoColor=ffffff)
-![SciPy](https://img.shields.io/badge/SciPy-1b1440?style=for-the-badge&logo=scipy&logoColor=38bdf8)
-![scikit--learn](https://img.shields.io/badge/scikit--learn-1b1440?style=for-the-badge&logo=scikit-learn&logoColor=f472b6)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-1b1440?style=for-the-badge&logo=TensorFlow&logoColor=facc15)
-![Keras](https://img.shields.io/badge/Keras-1b1440?style=for-the-badge&logo=Keras&logoColor=f87171)
-![PyTorch](https://img.shields.io/badge/PyTorch-1b1440?style=for-the-badge&logo=PyTorch&logoColor=f472b6)
-
-</td>
-<td width="50%" valign="top" align="center">
-
-**Databases & Cloud**
-
-![MongoDB](https://img.shields.io/badge/MongoDB-1b1440?style=for-the-badge&logo=mongodb&logoColor=34d399)
-![SQLite](https://img.shields.io/badge/SQLite-1b1440?style=for-the-badge&logo=sqlite&logoColor=38bdf8)
-![AWS](https://img.shields.io/badge/AWS-1b1440?style=for-the-badge&logo=amazon-aws&logoColor=facc15)
-
-<br><br>
-
-*Always tinkering, always exploring one layer deeper.*
-
-</td>
-</tr>
-</table>
-
-<br>
-
-<img src="./assets/header-stats.svg" width="100%"/>
-
-<br>
-
-<div align="center">
-
-<img src="https://github-readme-stats.shion.dev/api?username=Giri-Nova&theme=tokyonight&hide_border=true&bg_color=1b1440&border_radius=20&include_all_commits=true&count_private=true&title_color=A78BFA&icon_color=f472b6&text_color=e5e5f5" height="165"/>
-<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Giri-Nova&theme=tokyonight&hide_border=true&bg_color=1b1440&border_radius=20&include_all_commits=true&count_private=true&layout=compact&title_color=A78BFA&text_color=e5e5f5" height="165"/>
-
-<br>
-
-<img src="https://streak-stats.demolab.com/?user=Giri-Nova&theme=tokyonight&hide_border=true&background=1b1440&border_radius=20&ring=A78BFA&fire=f472b6&currStreakLabel=38bdf8" width="65%"/>
-
-</div>
-
-<br>
-
-<img src="./assets/header-quote.svg" width="100%"/>
-
-<br>
-
-<div align="center">
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" style="border-radius:16px"/>
-
-</div>
-
-<br>
-
-<img src="./assets/header-connect.svg" width="100%"/>
-
-<br>
-
-<div align="center">
-
-[![Instagram](https://img.shields.io/badge/Instagram-ffffff1a?style=for-the-badge&logo=Instagram&logoColor=E4405F&labelColor=1b1440)](https://www.instagram.com/fr.giri)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-ffffff1a?style=for-the-badge&logo=linkedin&logoColor=38bdf8&labelColor=1b1440)](https://www.linkedin.com/in/girimanigandan03)
-[![X](https://img.shields.io/badge/X-ffffff1a?style=for-the-badge&logo=X&logoColor=ffffff&labelColor=1b1440)](https://x.com/Fr_giri)
-[![Email](https://img.shields.io/badge/Email-ffffff1a?style=for-the-badge&logo=gmail&logoColor=f472b6&labelColor=1b1440)](mailto:girimanigandanofficial@gmail.com)
-
-<br><br>
-
-[![](https://komarev.com/ghpvc/?username=Giri-Nova&icon=0&color=A78BFA&style=for-the-badge&label=PROFILE+VIEWS)](https://visitcount.itsvg.in)
-
-</div>
-
-<br>
-
-<img src="./assets/footer-glass.svg" width="100%"/>
-
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:A855F7,100:6C63FF&height=120&section=footer"/>
