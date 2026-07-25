@@ -1,10 +1,8 @@
-# <div align="center">👋 Hi, I'm Giri M</div>
-
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:A855F7&height=240&section=header&text=Giri%20M&fontSize=50&fontColor=ffffff&animation=fadeIn&desc=AI%20Developer%20%7C%20Full-Stack%20Engineer&descAlignY=60"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Building+AI+that+solves+real-world+problems;Full-Stack+Developer;Computer+Vision+%7C+Machine+Learning;Always+learning.+Always+building."/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=700&lines=Building+AI+that+solves+real-world+problems;Full-Stack+Developer;Computer+Vision+%7C+Machine+Learning;Always+learning.+Always+building." alt="Typing SVG" />
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/girimanigandan03)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/fr.giri)
@@ -13,9 +11,9 @@
 
 </div>
 
----
+<br/>
 
-# 💫 About Me
+## 💫 About Me
 
 ```yaml
 Name: Giri M
@@ -37,38 +35,52 @@ Mission:
 
 ## 🚀 Featured Projects
 
-- 🤖 Multi-Agent AI Platform
-- 🌍 Digital Twin of a Smart City
-- 🌱 Plant Disease Detection
-- 🌐 AI Portfolio & Full-Stack Applications
+| Project | Description |
+|---|---|
+| 🤖 **Multi-Agent AI Platform** | A platform for orchestrating collaborative AI agents |
+| 🌍 **Digital Twin of a Smart City** | Real-time simulation & visualization of urban systems |
+| 🌱 **Plant Disease Detection** | Computer vision model for identifying crop diseases |
+| 🌐 **AI Portfolio & Full-Stack Apps** | End-to-end web applications powered by AI |
+
+> Add a live link and repo badge under each project once they're public — recruiters click through far more when there's something to open.
 
 ## 🛠 Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,java,cpp,c,javascript,django,fastapi,nodejs,express,mongodb,mysql,sqlite,aws,git,github,linux,vscode,tensorflow,pytorch,html,css,bootstrap,figma" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2500&pause=800&color=6C63FF&center=true&vCenter=true&width=600&lines=Python+%7C+TensorFlow+%7C+PyTorch;JavaScript+%7C+Node.js+%7C+FastAPI;MongoDB+%7C+MySQL+%7C+AWS" alt="Tech stack typing"/>
 </p>
 
----
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,java,cpp,c,javascript,django,fastapi,nodejs,express,mongodb,mysql,sqlite,aws,git,github,linux,vscode,tensorflow,pytorch,html,css,bootstrap,figma" alt="Tech stack icons"/>
+</p>
+
+## 🐍 Contribution Snake
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/Giri-Nova/Giri-Nova/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake animation"/>
+</p>
+
+> This one animates your real contribution graph into a snake eating each square. It needs a tiny one-time setup — see the note at the bottom of this file.
 
 ## 📊 GitHub Analytics
 
 <p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Giri-Nova&show_icons=true&theme=tokyonight&hide_border=true"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Giri-Nova&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Giri-Nova&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Giri's GitHub stats"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Giri-Nova&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages"/>
 </p>
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=Giri-Nova&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=Giri-Nova&theme=tokyonight&hide_border=true" alt="GitHub streak stats"/>
 </p>
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Giri-Nova&theme=tokyo-night&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Giri-Nova&theme=tokyo-night&hide_border=true" alt="Contribution activity graph"/>
 </p>
 
 ## 🏆 Achievements
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Giri-Nova&theme=tokyonight&no-frame=true&column=4"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Giri-Nova&theme=tokyonight&no-frame=true&column=4" alt="GitHub trophies"/>
 </p>
 
 ## 🎯 Goals
@@ -78,14 +90,33 @@ Mission:
 - Master Deep Learning
 - Participate in Hackathons
 
-> **"Technology becomes meaningful when it solves real problems."**
+<div align="center">
+
+> *"Technology becomes meaningful when it solves real problems."*
+
+</div>
 
 ## 🤝 Connect
 
-If you enjoy AI, ML or Full-Stack development, let's connect!
+If you enjoy AI, ML, or Full-Stack development, let's connect!
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=Giri-Nova&style=for-the-badge&color=blueviolet"/>
+<img src="https://komarev.com/ghpvc/?username=Giri-Nova&style=for-the-badge&color=blueviolet" alt="Profile views"/>
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:A855F7,100:6C63FF&height=120&section=footer"/>
+
+<br/>
+
+<details>
+<summary><sub>⚙️ One-time setup: enabling the contribution snake</sub></summary>
+
+The snake graphic is generated by a GitHub Action, not a static badge, so it needs to run once in your `Giri-Nova/Giri-Nova` repo:
+
+1. In that repo, create `.github/workflows/snake.yml` with the contents from the companion file provided alongside this README.
+2. Push it to `main`. The action runs automatically (and daily after that) and commits the generated SVG to an `output` branch.
+3. Go to **Settings → Actions → General** and make sure "Read and write permissions" is enabled for the workflow, or the commit step will fail silently.
+
+After the first run, the image in the "Contribution Snake" section above will populate automatically.
+
+</details>
