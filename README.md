@@ -54,13 +54,6 @@ Mission:
 <img src="https://skillicons.dev/icons?i=python,java,cpp,c,javascript,django,fastapi,nodejs,express,mongodb,mysql,sqlite,aws,git,github,linux,vscode,tensorflow,pytorch,html,css,bootstrap,figma" alt="Tech stack icons"/>
 </p>
 
-## 🐍 Contribution Snake
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/Giri-Nova/Giri-Nova/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake animation"/>
-</p>
-
-> This one animates your real contribution graph into a snake eating each square. It needs a tiny one-time setup — see the note at the bottom of this file.
 
 ## 📊 GitHub Analytics
 
